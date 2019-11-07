@@ -1,0 +1,7 @@
+.noBorder {
+  border-style: none;
+}
+
+input[type="number"] {
+  width: 100px
+}
